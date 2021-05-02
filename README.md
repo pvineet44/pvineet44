@@ -7,10 +7,9 @@
 - 🤔 I have deep interest in philosophy 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvineet44&count_private=true&show_icons=true&theme=vue-dark))](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvineet44&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvineet44&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvineet44&layout=compact&theme=vue-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ✉️: pvineet44@gmail.com
 
