@@ -1,4 +1,4 @@
-### Hello! My name is Vineet, I am from Mumbai 🇮🇳
+### Hello! My name is Vineet.
 
 - :memo: I am currently studying at 42, Paris 🇫🇷
 - :building_construction: I like to build stuff that make life easy
